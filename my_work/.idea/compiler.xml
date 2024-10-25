@@ -13,11 +13,13 @@
         <module name="taco-cloud-sfc" />
         <module name="taco-cloud (1)" />
         <module name="taco-cloud (2)" />
-        <module name="taco-cloud" />
         <module name="taco-cloud-sd-mongodb" />
         <module name="taco-cloud-sd-jdbc" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="taco-cloud" target="11" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
