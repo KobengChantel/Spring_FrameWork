@@ -7,6 +7,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KobengChantel"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KobengChantel/Spring_FrameWork.git",
+    "accountId": "56f8098a-5435-40af-8b16-50be77056d8d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -18,9 +33,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork/chp01",
+    "last_opened_file_path": "C:/Bootcamp/JAVA/Java_Advanced/java_work",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -43,6 +59,7 @@
       <updated>1729509835499</updated>
       <workItem from="1729509836535" duration="172000" />
       <workItem from="1729601861042" duration="30000" />
+      <workItem from="1730453124464" duration="54000" />
     </task>
     <servers />
   </component>
