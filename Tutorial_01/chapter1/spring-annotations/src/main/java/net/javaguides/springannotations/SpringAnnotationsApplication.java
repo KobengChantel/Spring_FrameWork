@@ -12,7 +12,7 @@ public class SpringAnnotationsApplication {
 
 		ConfigurableApplicationContext context = SpringApplication.run(SpringAnnotationsApplication.class, args);
 		
-		PizzaController pizzaController = (PizzaController) (PizzaController) context.getBean("pizzaController");
+		PizzaController pizzaController = (PizzaController) (PizzaController) context.getBean("pizzaDemo");
 		System.out.println(pizzaController.getPizza());
 
 	}
