@@ -4,16 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="044632c5-d4e4-4c68-8325-f5618f949d02" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -27,29 +34,53 @@
     &quot;accountId&quot;: &quot;56f8098a-5435-40af-8b16-50be77056d8d&quot;
   }
 }</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2nkGoYAwcd1cYGV9CtapNjtIe2k" />
+  <component name="ProjectId" id="2oQi9G3a0SzhPtuE2KM8923pkN0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.SpringAnnotationsApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork/Tutorial_01/spring-annotations",
+    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.24230254",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SpringAnnotationsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-annotations" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.javaguides.springannotations.SpringAnnotationsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,16 +92,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="" />
-      <created>1729509835499</created>
+      <changelist id="044632c5-d4e4-4c68-8325-f5618f949d02" name="Changes" comment="" />
+      <created>1730808046495</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1729509835499</updated>
-      <workItem from="1729509836535" duration="172000" />
-      <workItem from="1729601861042" duration="30000" />
-      <workItem from="1730453124464" duration="54000" />
-      <workItem from="1730803411415" duration="819000" />
-      <workItem from="1730810087591" duration="47000" />
+      <updated>1730808046495</updated>
+      <workItem from="1730808047522" duration="343000" />
+      <workItem from="1730808489032" duration="1591000" />
     </task>
     <servers />
   </component>
