@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="tutorial01 chp1,2">
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter3/spring-annotations/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter3/spring-annotations/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter3/spring-annotations/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter3/spring-annotations/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter3/spring-annotations/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter3/spring-annotations/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter3/spring-annotations/src/main/java/net/javaguides/springannotations/SpringAnnotationsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter3/spring-annotations/src/main/java/net/javaguides/springannotations/controller/PizzaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter3/spring-annotations/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter3/spring-annotations/src/test/java/net/javaguides/springannotations/SpringAnnotationsApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="tutorial01 chp3,4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +39,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork/Tutorial_01/chapter3",
+    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork/Tutorial_01/chapter5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,6 +75,7 @@
       <workItem from="1730803411415" duration="819000" />
       <workItem from="1730810087591" duration="47000" />
       <workItem from="1730812201607" duration="94000" />
+      <workItem from="1730881845099" duration="106000" />
     </task>
     <task id="LOCAL-00001" summary="tutorial01 chp1,2">
       <option name="closed" value="true" />
@@ -95,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730812256003</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tutorial01 chp3,4">
+      <option name="closed" value="true" />
+      <created>1730881907669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730881907669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tutorial01 chp1,2" />
-    <option name="LAST_COMMIT_MESSAGE" value="tutorial01 chp1,2" />
+    <MESSAGE value="tutorial01 chp3,4" />
+    <option name="LAST_COMMIT_MESSAGE" value="tutorial01 chp3,4" />
   </component>
 </project>
