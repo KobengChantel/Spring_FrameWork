@@ -4,395 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="tutorial01 chp13">
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/.idea/chapter3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/._spring-annotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/._.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/._.mvn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/._HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/._mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/._mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/._pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/._src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/.mvn/._wrapper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/._main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/._test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/main/._java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/main/._resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/main/java/._net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/main/java/net/._javaguides" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/main/java/net/javaguides/._springannotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/main/java/net/javaguides/springannotations/._SpringAnnotationsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/main/resources/._application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/test/._java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/test/java/._net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/test/java/net/._javaguides" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/test/java/net/javaguides/._springannotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/__MACOSX/spring-annotations/src/test/java/net/javaguides/springannotations/._SpringAnnotationsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/SpringAnnotationsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/beans/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppPropertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/controller/PizzaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/EagerLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/LazyLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/PropertySourceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/resipotory/MyRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/scope/PrototypeBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/scope/SingletonBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/service/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/service/NonVegPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/service/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/java/net/javaguides/springannotations/service/VegPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/resources/mail.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter10,11/spring-annotations/src/test/java/net/javaguides/springannotations/SpringAnnotationsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/.idea/chapter3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/._spring-annotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/._.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/._.mvn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/._HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/._mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/._mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/._pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/._src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/.mvn/._wrapper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/._main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/._test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/main/._java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/main/._resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/main/java/._net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/main/java/net/._javaguides" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/main/java/net/javaguides/._springannotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/main/java/net/javaguides/springannotations/._SpringAnnotationsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/main/resources/._application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/test/._java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/test/java/._net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/test/java/net/._javaguides" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/test/java/net/javaguides/._springannotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/__MACOSX/spring-annotations/src/test/java/net/javaguides/springannotations/._SpringAnnotationsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/SpringAnnotationsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/beans/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppPropertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/controller/PizzaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/EagerLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/LazyLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/PropertySourceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/resipotory/MyRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/scope/PrototypeBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/scope/SingletonBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/service/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/service/NonVegPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/service/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/java/net/javaguides/springannotations/service/VegPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/resources/mail.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter11/spring-annotations/src/test/java/net/javaguides/springannotations/SpringAnnotationsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/.idea/chapter3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/._spring-annotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/._.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/._.mvn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/._HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/._mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/._mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/._pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/._src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/.mvn/._wrapper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/._main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/._test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/main/._java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/main/._resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/main/java/._net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/main/java/net/._javaguides" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/main/java/net/javaguides/._springannotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/main/java/net/javaguides/springannotations/._SpringAnnotationsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/main/resources/._application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/test/._java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/test/java/._net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/test/java/net/._javaguides" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/test/java/net/javaguides/._springannotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/__MACOSX/spring-annotations/src/test/java/net/javaguides/springannotations/._SpringAnnotationsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/SpringAnnotationsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/beans/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppPropertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/controller/PizzaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/EagerLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/LazyLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/PropertySourceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/resipotory/MyRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/scope/PrototypeBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/scope/SingletonBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/service/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/service/NonVegPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/service/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/java/net/javaguides/springannotations/service/VegPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/resources/mail.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter12/spring-annotations/src/test/java/net/javaguides/springannotations/SpringAnnotationsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/.idea/chapter3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/._spring-annotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/._.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/._.mvn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/._HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/._mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/._mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/._pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/._src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/.mvn/._wrapper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/._main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/._test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/main/._java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/main/._resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/main/java/._net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/main/java/net/._javaguides" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/main/java/net/javaguides/._springannotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/main/java/net/javaguides/springannotations/._SpringAnnotationsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/main/resources/._application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/test/._java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/test/java/._net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/test/java/net/._javaguides" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/test/java/net/javaguides/._springannotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/__MACOSX/spring-annotations/src/test/java/net/javaguides/springannotations/._SpringAnnotationsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/SpringAnnotationsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/beans/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppPropertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/controller/PizzaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/EagerLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/LazyLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/PropertySourceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/resipotory/MyRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/scope/PrototypeBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/scope/SingletonBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/service/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/service/NonVegPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/service/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/java/net/javaguides/springannotations/service/VegPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/resources/mail.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter13/spring-annotations/src/test/java/net/javaguides/springannotations/SpringAnnotationsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/._spring-annotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/._.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/._.mvn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/._HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/._mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/._mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/._pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/._src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/.mvn/._wrapper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/._main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/._test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/main/._java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/main/._resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/main/java/._net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/main/java/net/._javaguides" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/main/java/net/javaguides/._springannotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/main/java/net/javaguides/springannotations/._SpringAnnotationsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/main/resources/._application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/test/._java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/test/java/._net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/test/java/net/._javaguides" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/test/java/net/javaguides/._springannotations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/__MACOSX/spring-annotations/src/test/java/net/javaguides/springannotations/._SpringAnnotationsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/SpringAnnotationsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/beans/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppPropertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/controller/PizzaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/EagerLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/LazyLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/PropertySourceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/resipotory/MyRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/scope/PrototypeBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/scope/SingletonBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/service/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/service/NonVegPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/service/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/java/net/javaguides/springannotations/service/VegPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/resources/mail.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial_01/chapter14/spring-annotations/src/test/java/net/javaguides/springannotations/SpringAnnotationsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_work/chp01/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial_01/spring-annotations/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorials/spring-annotations/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/.idea/spring-annotations (2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/._spring-annotations" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/._.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/._.mvn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/._HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/._mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/._mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/._pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/._src" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/.mvn/._wrapper" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/.mvn/wrapper/._maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/._main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/._test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/main/._java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/main/._resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/main/java/._net" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/main/java/net/._javaguides" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/main/java/net/javaguides/._springannotations" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/main/java/net/javaguides/springannotations/._SpringAnnotationsApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/main/resources/._application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/test/._java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/test/java/._net" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/test/java/net/._javaguides" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/test/java/net/javaguides/._springannotations" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/__MACOSX/spring-annotations/src/test/java/net/javaguides/springannotations/._SpringAnnotationsApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/SpringAnnotationsApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/beans/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/config/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppPropertiesDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/controller/BookController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/controller/MyController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/controller/PizzaController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/EagerLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/LazyLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/PropertySourceDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/lazy/propertysource/SpringConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/repository/MyRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/scope/PrototypeBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/scope/SingletonBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/service/MyService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/service/NonVegPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/service/Pizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/service/VegPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/java/net/javaguides/springannotations/value/ValueAnnotationDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/resources/mail.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/main/resources/messages.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotations (2)/spring-annotations/src/test/java/net/javaguides/springannotations/SpringAnnotationsApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="tutorial01 chp13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -423,11 +35,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork/Tutorial_01/chapter14",
+    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork/Tutorial_01/chapter15",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -468,6 +82,7 @@
       <workItem from="1730985088312" duration="117000" />
       <workItem from="1730986260114" duration="222000" />
       <workItem from="1731052215161" duration="1270000" />
+      <workItem from="1731056981122" duration="135000" />
     </task>
     <task id="LOCAL-00001" summary="tutorial01 chp1,2">
       <option name="closed" value="true" />
@@ -485,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730881907669</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tutorial01 chp13">
+      <option name="closed" value="true" />
+      <created>1731057092204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731057092204</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
