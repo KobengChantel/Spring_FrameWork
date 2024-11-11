@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6af24e67-6167-4187-8eca-459823d3032c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tutorial_02.iml" afterDir="false" />
-    </list>
+    <list default="true" id="6af24e67-6167-4187-8eca-459823d3032c" name="Changes" comment="tutorial1 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,21 +13,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KobengChantel"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KobengChantel&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KobengChantel/Spring_FrameWork.git",
-    "accountId": "56f8098a-5435-40af-8b16-50be77056d8d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KobengChantel/Spring_FrameWork.git&quot;,
+    &quot;accountId&quot;: &quot;56f8098a-5435-40af-8b16-50be77056d8d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ohhzFVSbmbB3vMfIKC1jgdvV4l" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,11 +39,16 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork/Tutorial_02/ems-backend",
+    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork/Tutorial_03",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Bootcamp\JAVA\Spring_FrameWork\Tutorial_02" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="EmsBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="ems-backend" />
@@ -72,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731327975983</updated>
       <workItem from="1731327977025" duration="76000" />
+      <workItem from="1731329995381" duration="70000" />
     </task>
     <servers />
   </component>
