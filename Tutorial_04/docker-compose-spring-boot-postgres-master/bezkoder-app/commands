@@ -1,0 +1,12 @@
+#check current working container
+docker ps
+
+#check docker images
+docker images
+
+
+#http request  using postman
+
+{ "title": "docker and spring",
+"description":"tutorial1"
+}
