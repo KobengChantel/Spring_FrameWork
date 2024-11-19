@@ -1,9 +1,28 @@
-FROM openjdk:11-jre-slim
+FROM openjdk:17-jre-slim as builder
+WORKDIR application
+ADD targert/kbe-rest-brewery-0.0.1-SNAPSHOT.jar ./
+RUN java -Djarmode=layertools -kbe-rest-brewery-0.0.1-SNAPSHOT.jar extract
+
+
+
+FROM openjdk:17-jre-slim
+
+WORKDIR application
+COPY --from=builder application/dependencies/ ./
+COPY --from=builder application/spring-boot-loader/ ./
+COPY --from=builder application/snaptshot-dependencies/ ./
+COPY --from=builder application/application/ ./
+ENTRYPOINT ["java", "-Djava.security.egd=file:/dev/./urandom", "org.springframework.boot.loader.JarLauncher"]
+
 
 ENV JAVA_OPTS " -Xms512m -Xmx512m -Djava.security.egd=file:/dev/./urandom"
 
-WORKDIR application
+
 
 COPY ../../../target/kbe-rest-brewery-0.0.1-SNAPSHOT.jar ./
 
 ENTRYPOINT ["java", "-jar", "kbe-rest-brewery-0.0.1-SNAPSHOT.jar"]
+
+
+
+

@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9e56803-0aa2-498b-a7ca-36dc7abf524f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Tutorial_04/docker-compose-spring-boot-postgres/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tutorial_04/docker-compose-spring-boot-postgres/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tutorial_04/docker-compose-spring-boot-postgres/bezkoder-app/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tutorial_04/docker-compose-spring-boot-postgres/bezkoder-app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tutorial_04/docker-compose-spring-boot-postgres/docker-compose.yml" afterDir="false" />
-    </list>
+    <list default="true" id="d9e56803-0aa2-498b-a7ca-36dc7abf524f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,21 +13,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KobengChantel"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KobengChantel&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KobengChantel/Spring_FrameWork.git",
-    "accountId": "56f8098a-5435-40af-8b16-50be77056d8d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KobengChantel/Spring_FrameWork.git&quot;,
+    &quot;accountId&quot;: &quot;56f8098a-5435-40af-8b16-50be77056d8d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2osvivOBw3Ke3tJes2jZ6KLYcYO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,8 +37,9 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork/Tutorial_05/kbe-rest-brewery-main",
+    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork/Tutorial_05/kbe-rest-brewery-dockerBase",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731671228773</updated>
       <workItem from="1731671229802" duration="327000" />
+      <workItem from="1732001183419" duration="161000" />
     </task>
     <servers />
   </component>
