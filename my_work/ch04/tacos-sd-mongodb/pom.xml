@@ -94,7 +94,7 @@
     <dependency>
       <groupId>de.flapdoodle.embed</groupId>
       <artifactId>de.flapdoodle.embed.mongo</artifactId>
-      <!-- <scope>test</scope> -->
+      <version>4.6.0</version> <!-- Use the latest version -->
     </dependency>
     <!-- end::flapDoodle[] -->
   </dependencies>
