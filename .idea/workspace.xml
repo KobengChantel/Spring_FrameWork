@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="tutorial01 chp13" />
+    <list default="true" id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/project/employee-management/employee-management/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Bootcamp/JAVA/Spring_FrameWork/Tutorial_01/chapter15",
+    "last_opened_file_path": "C:/Bootcamp/JAVA/java_beginner/Dummies_Book",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,6 +85,7 @@
       <workItem from="1730986260114" duration="222000" />
       <workItem from="1731052215161" duration="1270000" />
       <workItem from="1731056981122" duration="135000" />
+      <workItem from="1732715751264" duration="365000" />
     </task>
     <task id="LOCAL-00001" summary="tutorial01 chp1,2">
       <option name="closed" value="true" />
@@ -108,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731057092204</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="done">
+      <option name="closed" value="true" />
+      <created>1732715773384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732715773384</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +140,7 @@
     <MESSAGE value="tutorial01 chp1,2" />
     <MESSAGE value="tutorial01 chp3,4" />
     <MESSAGE value="tutorial01 chp13" />
-    <option name="LAST_COMMIT_MESSAGE" value="tutorial01 chp13" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
