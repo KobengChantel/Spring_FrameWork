@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="done spring lessons" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +96,7 @@
       <workItem from="1750834414311" duration="2259000" />
       <workItem from="1751595660592" duration="1412000" />
       <workItem from="1751793632416" duration="114000" />
+      <workItem from="1752171116067" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="tutorial01 chp1,2">
       <option name="closed" value="true" />
@@ -131,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732715773384</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="done spring lessons">
+      <option name="closed" value="true" />
+      <created>1752171153838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752171153838</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +160,7 @@
     <MESSAGE value="tutorial01 chp3,4" />
     <MESSAGE value="tutorial01 chp13" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="done spring lessons" />
+    <option name="LAST_COMMIT_MESSAGE" value="done spring lessons" />
   </component>
 </project>
