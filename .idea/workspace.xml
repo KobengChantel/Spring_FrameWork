@@ -97,6 +97,7 @@
       <workItem from="1751595660592" duration="1412000" />
       <workItem from="1751793632416" duration="114000" />
       <workItem from="1752171116067" duration="82000" />
+      <workItem from="1752638445620" duration="290000" />
     </task>
     <task id="LOCAL-00001" summary="tutorial01 chp1,2">
       <option name="closed" value="true" />
@@ -138,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752171153838</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="done spring lessons">
+      <option name="closed" value="true" />
+      <created>1752638534429</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752638534429</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
