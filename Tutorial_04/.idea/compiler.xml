@@ -2,9 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile name="Annotation profile for spring-boot-jpa-postgresql" enabled="true">
-        <sourceOutputDir name="../../docker-compose-spring-boot-postgres-master/bezkoder-app/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../docker-compose-spring-boot-postgres-master/bezkoder-app/target/generated-test-sources/test-annotations" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-jpa-postgresql" />
       </profile>

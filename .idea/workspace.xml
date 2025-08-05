@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="done spring lessons" />
+    <list default="true" id="109a16fb-0102-405d-a1e8-47e04f46674b" name="Changes" comment="done spring lessons">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +100,9 @@
       <workItem from="1751793632416" duration="114000" />
       <workItem from="1752171116067" duration="82000" />
       <workItem from="1752638445620" duration="290000" />
+      <workItem from="1753172763391" duration="65000" />
+      <workItem from="1753173494477" duration="73000" />
+      <workItem from="1753173739729" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="tutorial01 chp1,2">
       <option name="closed" value="true" />
