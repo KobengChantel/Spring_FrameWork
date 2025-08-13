@@ -1,49 +1,55 @@
-package tacos.web;
-import javax.validation.Valid;
+package tacos.web; // Declares that this class belongs to the 'tacos.web' package
 
-import org.springframework.stereotype.Controller;
-import org.springframework.validation.Errors;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.SessionAttributes;
-import org.springframework.web.bind.support.SessionStatus;
+import javax.validation.Valid; // Enables validation on objects
 
-import lombok.extern.slf4j.Slf4j;
-import tacos.TacoOrder;
+import org.springframework.stereotype.Controller; // Marks this class as a Spring MVC controller
+import org.springframework.validation.Errors; // Holds validation error details
+import org.springframework.web.bind.annotation.GetMapping; // Maps GET requests to methods
+import org.springframework.web.bind.annotation.PostMapping; // Maps POST requests to methods
+import org.springframework.web.bind.annotation.RequestMapping; // Maps class-level request paths
+import org.springframework.web.bind.annotation.SessionAttributes; // Keeps specified attributes in the session
+import org.springframework.web.bind.support.SessionStatus; // Allows clearing session attributes
 
-@Slf4j
-@Controller
-@RequestMapping("/orders")
-@SessionAttributes("tacoOrder")
+import lombok.extern.slf4j.Slf4j; // Lombok annotation for logging
+import tacos.TacoOrder; // Represents an order containing tacos
+
+@Slf4j // Enables logging
+@Controller // Marks this as a Spring MVC controller
+@RequestMapping("/orders") // All request mappings in this class start with /orders
+@SessionAttributes("tacoOrder") // Stores "tacoOrder" in session so it persists across multiple requests
 public class OrderController {
 
-  @GetMapping("/current")
+  @GetMapping("/current") // Handles GET requests to /orders/current
   public String orderForm() {
-    return "orderForm";
+    return "orderForm"; // Returns the orderForm.html view
   }
 
-/*
+  /*
+  // Old version without validation
   @PostMapping
   public String processOrder(TacoOrder order,
-		  SessionStatus sessionStatus) {
+        SessionStatus sessionStatus) {
     log.info("Order submitted: {}", order);
-    sessionStatus.setComplete();
-
-    return "redirect:/";
+    sessionStatus.setComplete(); // Clears "tacoOrder" from the session
+    return "redirect:/"; // Redirects to the homepage
   }
-*/
+  */
 
-  @PostMapping
-  public String processOrder(@Valid TacoOrder order, Errors errors,
-		  SessionStatus sessionStatus) {
+  @PostMapping // Handles POST requests to /orders
+  public String processOrder(
+          @Valid TacoOrder order, Errors errors, // Validates the order object
+          SessionStatus sessionStatus) {
+
+    // If validation fails, return the order form again
     if (errors.hasErrors()) {
       return "orderForm";
     }
 
+    // Log the order details and clear session
     log.info("Order submitted: {}", order);
-    sessionStatus.setComplete();
+    sessionStatus.setComplete(); // Ends the session for "tacoOrder"
 
+    // Redirect to homepage after successful submission
     return "redirect:/";
   }
 }
