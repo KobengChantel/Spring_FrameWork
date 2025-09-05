@@ -17,70 +17,62 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.http.HttpStatus;
 
+// This class is a REST controller that defines CRUD endpoints for managing Book objects.
 
-
-//@Controller
-////@ResponseBody
-//combination of @Controller and @ResponseBody annotations
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api") // Base URL path for all endpoints in this controller
 public class BookController {
 
+    // Simple endpoint that returns a plain text message
     @RequestMapping("/hello-world")
-//    @ResponseBody
-    public String helloWorld(){
+    public String helloWorld() {
         return "Hello World!";
     }
 
-    @GetMapping(value = {"/book", "/java"},
-    produces = MediaType.APPLICATION_JSON_VALUE,
-    consumes = MediaType.APPLICATION_JSON_VALUE)
-//    @ResponseBody
-    public Book getBook(){
+    // GET request that returns a Book object in JSON format
+    @GetMapping(
+            value = {"/book", "/java"},
+            produces = MediaType.APPLICATION_JSON_VALUE,
+            consumes = MediaType.APPLICATION_JSON_VALUE
+    )
+    public Book getBook() {
         Book book = new Book(1, "Core Java", "Learn Core Java and latest Features");
         return book;
     }
 
-    @PostMapping(value = "/books/create",
-    consumes = MediaType.APPLICATION_JSON_VALUE)
-
+    // POST request to create a new Book (returns 201 Created status)
+    @PostMapping(value = "/books/create", consumes = MediaType.APPLICATION_JSON_VALUE)
     @ResponseStatus(value = HttpStatus.CREATED)
     public ResponseEntity<Book> createBook(@RequestBody Book book) {
+        // Print book details for debugging
         System.out.println(book.getId());
         System.out.println(book.getTitle());
         System.out.println(book.getDescription());
+
+        // Return created book with HTTP 201 status
         return new ResponseEntity<>(book, HttpStatus.CREATED);
-
-        //    @RequestMapping(value = "/books/create",method = RequestMethod.POST)
-//    public Book createBook(Book book){
-//        System.out.println(book.getId());
-//        System.out.println(book.getTitle());
-//        System.out.println(book.getDescription());
-//        return book;
-
     }
 
-    //http:localhost:8080/api/update/1
-    //shortcut for put method annotation for @RequestMapping
-    @PutMapping(value ="/books/update/{id}")
-//    @RequestMapping(value = "/books/update/{id}", method = RequestMethod.PUT)
+    // PUT request to update an existing book by its ID
+    // Example: http://localhost:8080/api/books/update/1
+    @PutMapping(value = "/books/update/{id}")
     public ResponseEntity<Book> updateBook(
             @PathVariable int id,
-                                           @RequestBody Book updateBook){
+            @RequestBody Book updateBook) {
         System.out.println(updateBook.getId());
         System.out.println(updateBook.getTitle());
         System.out.println(updateBook.getDescription());
+
+        // Ensure the path variable ID is set in the updated book
         updateBook.setId(id);
+
         return ResponseEntity.ok().body(updateBook);
     }
-//using @Delete Annotation
+
+    // DELETE request to remove a book by ID
     @DeleteMapping(value = "/books/delete/{id}")
-//    @RequestMapping( value = "/books/delete/{id}", method = RequestMethod.DELETE)
-    public ResponseEntity<String> deleteBook( @PathVariable
-            int id){
+    public ResponseEntity<String> deleteBook(@PathVariable int id) {
         System.out.println(id);
         return ResponseEntity.ok().body("Book Deleted Successfully!.");
     }
-    }
-
-
+}
