@@ -2,5 +2,13 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ems-backend/ems-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ems-backend_02/ems-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ems-backend_03/ems-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ems-backend_04/ems-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ems-backend_05/ems-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ems-backend_06/ems-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ems-backend_07/ems-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ems-backend_08/ems-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ems-backend_09/ems-backend/src/main/java" charset="UTF-8" />
   </component>
 </project>
