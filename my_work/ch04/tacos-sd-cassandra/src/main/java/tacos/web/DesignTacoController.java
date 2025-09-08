@@ -31,11 +31,11 @@ public class DesignTacoController {
   private final IngredientRepository ingredientRepo;
 
   @Autowired
-  public DesignTacoController(
-        IngredientRepository ingredientRepo) {
+  public DesignTacoController(IngredientRepository ingredientRepo) {
     this.ingredientRepo = ingredientRepo;
   }
 
+  // Add all ingredients to the model, grouped by type
   @ModelAttribute
   public void addIngredientsToModel(Model model) {
     List<Ingredient> ingredients = new ArrayList<>();
@@ -44,15 +44,17 @@ public class DesignTacoController {
     Type[] types = Ingredient.Type.values();
     for (Type type : types) {
       model.addAttribute(type.toString().toLowerCase(),
-          filterByType(ingredients, type));
+              filterByType(ingredients, type));
     }
   }
 
+  // Add a TacoOrder to the session model if not already present
   @ModelAttribute(name = "tacoOrder")
   public TacoOrder order() {
     return new TacoOrder();
   }
 
+  // Add a Taco to the model for the form
   @ModelAttribute(name = "taco")
   public Taco taco() {
     return new Taco();
@@ -60,29 +62,28 @@ public class DesignTacoController {
 
   @GetMapping
   public String showDesignForm() {
-    return "design";
+    return "design"; // returns the design view
   }
 
+  // Handle form submission
   @PostMapping
-  public String processTaco(
-      @Valid Taco taco, Errors errors,
-      @ModelAttribute TacoOrder tacoOrder) {
-
+  public String processTaco(@Valid Taco taco, Errors errors,
+                            @ModelAttribute TacoOrder tacoOrder) {
     if (errors.hasErrors()) {
-      return "design";
+      return "design"; // redisplay form if validation fails
     }
 
+    // Convert Taco to TacoUDT before adding to order
     tacoOrder.addTaco(new TacoUDT(taco.getName(), taco.getIngredients()));
 
     return "redirect:/orders/current";
   }
 
-  private Iterable<Ingredient> filterByType(
-      List<Ingredient> ingredients, Type type) {
-    return ingredients
-              .stream()
-              .filter(x -> x.getType().equals(type))
-              .collect(Collectors.toList());
+  // Helper method to filter ingredients by type
+  private Iterable<Ingredient> filterByType(List<Ingredient> ingredients, Type type) {
+    return ingredients.stream()
+            .filter(x -> x.getType().equals(type))
+            .collect(Collectors.toList());
   }
 
 }
