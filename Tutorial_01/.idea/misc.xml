@@ -4,11 +4,26 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/spring-annotations/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter12/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter14/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5A/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5B/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10,11/spring-annotations/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

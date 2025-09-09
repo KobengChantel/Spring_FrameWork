@@ -5,6 +5,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ems-backend/ems-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/ems-backend_02/ems-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/ems-backend_03/ems-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/ems-backend_04/ems-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/ems-backend_05/ems-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/ems-backend_06/ems-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/ems-backend_07/ems-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/ems-backend_08/ems-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/ems-backend_09/ems-backend/pom.xml" />
       </list>
     </option>
   </component>
