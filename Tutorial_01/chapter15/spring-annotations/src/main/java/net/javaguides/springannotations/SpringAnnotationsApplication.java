@@ -1,5 +1,6 @@
 package net.javaguides.springannotations;
-//primary annotation
+
+// Primary Spring Boot application class that demonstrates usage of various Spring components
 import net.javaguides.springannotations.controller.MyController;
 import net.javaguides.springannotations.controller.PizzaController;
 import org.springframework.boot.SpringApplication;
@@ -15,41 +16,48 @@ import net.javaguides.springannotations.lazy.propertysource.PropertySourceDemo;
 @SpringBootApplication
 public class SpringAnnotationsApplication {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-		ConfigurableApplicationContext context = SpringApplication.run(SpringAnnotationsApplication.class, args);
-//chp1-4
-//		PizzaController pizzaController = (PizzaController) (PizzaController) context.getBean("pizzaController");
-//		System.out.println(pizzaController.getPizza());
-//chp5
-//		VegPizza vegPizza = (VegPizza) context.getBean("vegPizzaBean");
-//		System.out.println(vegPizza.getPizza());
-//chp6
-//		MyController myController = context.getBean(MyController.class);
-//		System.out.println(myController.hello());
-//
-//		MyService myService = context.getBean(MyService.class);
-//		System.out.println(myService.hello());
+        // Bootstraps the Spring application and returns the application context
+        ConfigurableApplicationContext context = SpringApplication.run(SpringAnnotationsApplication.class, args);
 
-//		MyRepository myRepository = context.getBean(MyRepository.class);
-//		System.out.println(myRepository.hello());
-		//chp7
-//		LazyLoader lazyLoader = context.getBean(LazyLoader.class);
-//		System.out.println(lazyLoader.LazyLoader());
+        // ---------------------------------------
+        // Example usage of beans (uncomment as needed)
+        // ---------------------------------------
 
-		//chp8
+        // Chapter 1-4: PizzaController example
+        // PizzaController pizzaController = (PizzaController) context.getBean("pizzaController");
+        // System.out.println(pizzaController.getPizza());
 
-		PropertySourceDemo propertySourceDemo = context.getBean(PropertySourceDemo.class);
-		System.out.println(propertySourceDemo.getHost());
-		System.out.println(propertySourceDemo.getEmail());
-		System.out.println(propertySourceDemo.getPassword());
-		System.out.println(propertySourceDemo.getAppName());
-		System.out.println(propertySourceDemo.getHost());
-		System.out.println(propertySourceDemo.getAppDesc());
+        // Chapter 5: VegPizza bean example
+        // VegPizza vegPizza = (VegPizza) context.getBean("vegPizzaBean");
+        // System.out.println(vegPizza.getPizza());
 
-		AppPropertiesDemo appPropertiesDemo = context.getBean(AppPropertiesDemo.class);
-appPropertiesDemo.display();
+        // Chapter 6: Basic controller, service, and repository usage
+        // MyController myController = context.getBean(MyController.class);
+        // System.out.println(myController.hello());
+        //
+        // MyService myService = context.getBean(MyService.class);
+        // System.out.println(myService.hello());
+        //
+        // MyRepository myRepository = context.getBean(MyRepository.class);
+        // System.out.println(myRepository.hello());
 
-	}
+        // Chapter 7: LazyLoader example
+        // LazyLoader lazyLoader = context.getBean(LazyLoader.class);
+        // System.out.println(lazyLoader.LazyLoader());
 
+        // Chapter 8: PropertySourceDemo usage
+        PropertySourceDemo propertySourceDemo = context.getBean(PropertySourceDemo.class);
+        System.out.println(propertySourceDemo.getHost());
+        System.out.println(propertySourceDemo.getEmail());
+        System.out.println(propertySourceDemo.getPassword());
+        System.out.println(propertySourceDemo.getAppName());
+        System.out.println(propertySourceDemo.getHost());
+        System.out.println(propertySourceDemo.getAppDesc());
+
+        // AppPropertiesDemo usage
+        AppPropertiesDemo appPropertiesDemo = context.getBean(AppPropertiesDemo.class);
+        appPropertiesDemo.display();
+    }
 }
