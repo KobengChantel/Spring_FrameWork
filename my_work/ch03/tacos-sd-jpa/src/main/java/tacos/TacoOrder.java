@@ -18,17 +18,19 @@ import org.hibernate.validator.constraints.CreditCardNumber;
 
 import lombok.Data;
 
+// 👉 Represents a TacoOrder entity that stores customer, payment, and taco information, validated and persisted in the database.
+
 @Data
-@Entity
+@Entity // Marks this class as a JPA entity
 public class TacoOrder implements Serializable {
 
   private static final long serialVersionUID = 1L;
 
   @Id
-  @GeneratedValue(strategy = GenerationType.AUTO)
+  @GeneratedValue(strategy = GenerationType.AUTO) // Auto-generates primary key
   private Long id;
 
-  private Date placedAt = new Date();
+  private Date placedAt = new Date(); // Timestamp when the order was created
 
   @NotBlank(message="Delivery name is required")
   private String deliveryName;
@@ -49,15 +51,16 @@ public class TacoOrder implements Serializable {
   private String ccNumber;
 
   @Pattern(regexp="^(0[1-9]|1[0-2])([\\/])([2-9][0-9])$",
-           message="Must be formatted MM/YY")
+          message="Must be formatted MM/YY")
   private String ccExpiration;
 
   @Digits(integer=3, fraction=0, message="Invalid CVV")
   private String ccCVV;
 
-  @OneToMany(cascade = CascadeType.ALL)
+  @OneToMany(cascade = CascadeType.ALL) // Cascades all operations to associated Tacos
   private List<Taco> tacos = new ArrayList<>();
 
+  // Adds a taco to this order
   public void addTaco(Taco taco) {
     this.tacos.add(taco);
   }

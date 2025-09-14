@@ -8,15 +8,18 @@ import org.springframework.context.annotation.Bean;
 import tacos.Ingredient.Type;
 import tacos.data.IngredientRepository;
 
-@SpringBootApplication
+// 👉 This is the main Spring Boot application class that initializes the application and pre-loads a set of Ingredients into the repository at startup.
+
+@SpringBootApplication  // Marks this class as a Spring Boot application
 public class TacoCloudApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(TacoCloudApplication.class, args);
+    SpringApplication.run(TacoCloudApplication.class, args); // Launches the Spring Boot application
   }
 
   @Bean
   public CommandLineRunner dataLoader(IngredientRepository repo) {
+    // This runner adds predefined ingredients to the database when the application starts
     return new CommandLineRunner() {
       @Override
       public void run(String... args) throws Exception {
@@ -33,5 +36,5 @@ public class TacoCloudApplication {
       }
     };
   }
-  
+
 }
