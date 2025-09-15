@@ -21,7 +21,8 @@ import org.springframework.web.client.RestClient;
 import org.springframework.web.client.support.RestClientAdapter;
 import org.springframework.web.service.invoker.HttpServiceProxyFactory;
 
-// This is the main Spring Boot application class that configures and starts the fitness tracking web application with HTTP client functionality.
+// This is the main Spring Boot application class that configures and starts the fitness
+// tracking web application with HTTP client functionality.
 
 @SpringBootApplication // Enables auto-configuration, component scanning, and configuration properties
 public class Application {

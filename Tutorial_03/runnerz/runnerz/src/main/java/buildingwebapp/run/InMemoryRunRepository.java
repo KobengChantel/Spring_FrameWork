@@ -12,7 +12,8 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Optional;
 
-// This is an in-memory implementation of a repository that manages Run entities using an ArrayList for a running/fitness tracking application.
+// This is an in-memory implementation of a repository that manages Run entities using an ArrayList for a
+// running/fitness tracking application.
 
 @Repository // Spring annotation marking this as a data access component
 class InMemoryRunRepository implements RunRepository {
