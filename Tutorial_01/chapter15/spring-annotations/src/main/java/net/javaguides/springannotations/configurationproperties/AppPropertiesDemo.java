@@ -24,7 +24,7 @@ public class AppPropertiesDemo {
         System.out.println(appProperties.getSecurity().getPassword());
 
         // Direct access to roles (list of user roles)
-        System.out.println(appProperties.getSecurity().roles);
+        System.out.println(appProperties.getSecurity().getRoles());
 
         // Print whether security is enabled
         System.out.println(appProperties.getSecurity().isEnabled());
