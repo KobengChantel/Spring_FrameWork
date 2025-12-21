@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e55d4586-529b-4f0e-8861-c5dc595c6532" name="Changes" comment="adding comments">
-      <change beforePath="$PROJECT_DIR$/chapter15/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppPropertiesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/spring-annotations/src/main/java/net/javaguides/springannotations/configurationproperties/AppPropertiesDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial_04/docker-compose-spring-boot-postgres-master/bezkoder-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial_04/docker-compose-spring-boot-postgres-master/bezkoder-app/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial_04/docker-compose-spring-boot-postgres-master/bezkoder-app/src/resource/Application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial_04/docker-compose-spring-boot-postgres-master/bezkoder-app/src/resource/Application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial_05/kbe-rest-brewery-dockerBase/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial_05/kbe-rest-brewery-dockerBase/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorial4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,8 +202,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
@@ -227,6 +224,7 @@
       <workItem from="1757738990179" duration="1550000" />
       <workItem from="1757740717503" duration="1576000" />
       <workItem from="1758603759675" duration="1166000" />
+      <workItem from="1766278608094" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="adding comments">
       <option name="closed" value="true" />
