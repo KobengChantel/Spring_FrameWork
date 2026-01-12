@@ -12,6 +12,7 @@ public class Book {
     // Short description of the book
     private String description;
 
+
     // Constructor to initialize a Book object with id, title, and description
     public Book(int id, String title, String description) {
         this.id = id;
