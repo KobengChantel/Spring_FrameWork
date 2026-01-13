@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e55d4586-529b-4f0e-8861-c5dc595c6532" name="Changes" comment="adding comments">
-      <change beforePath="$PROJECT_DIR$/../tutorial4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,6 +225,7 @@
       <workItem from="1757740717503" duration="1576000" />
       <workItem from="1758603759675" duration="1166000" />
       <workItem from="1766278608094" duration="127000" />
+      <workItem from="1768247549347" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="adding comments">
       <option name="closed" value="true" />
@@ -335,11 +336,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/chapter15/spring-annotations/src/main/java/net/javaguides/springannotations/SpringAnnotationsApplication.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/chapter15/spring-annotations/src/main/java/net/javaguides/springannotations/SpringAnnotationsApplication.java</url>
           <line>56</line>
