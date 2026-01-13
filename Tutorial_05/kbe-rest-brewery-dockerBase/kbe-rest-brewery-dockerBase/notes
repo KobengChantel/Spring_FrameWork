@@ -1,0 +1,7 @@
+
+
+how to run the application
+
+docker ps
+docker build -f ./src/main/dockerBase/dockerfile -t kbe-rest .
+docker build -f ./src/main/dockerBase/Dockerfile -t kbe-rest .
