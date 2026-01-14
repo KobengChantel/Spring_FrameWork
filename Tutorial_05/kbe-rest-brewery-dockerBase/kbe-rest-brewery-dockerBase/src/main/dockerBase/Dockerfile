@@ -1,11 +1,11 @@
-FROM eclipse-temurin:17-jdk-jammy AS builder
+FROM openjdk:17-jdk-slim as builder
 WORKDIR application
 ADD target/kbe-rest-brewery-dockerBase/kbe-rest-brewery-dockerBase-0.0.1-SNAPSHOT.jar ./
 RUN java -Djarmode=layertools -jar kbe-rest-brewery-0.0.1-SNAPSHOT.jar extract
 
 
 
-FROM eclipse-temurin:17-jdk-jammy
+FROM openjdk:17-jdk-slim
 
 WORKDIR application
 COPY --from=builder application/dependencies/ ./
